@@ -12,7 +12,7 @@ body{
 button{
     border-color:#F42272;
     background-color: #F42272;
-    font-size:larger;
+    font-size:x-large;
     padding : 10px;
     margin : 10px;
     border-radius : 3px;
@@ -23,7 +23,7 @@ button{
 .card{
     border-color :#6F8F6C;
     background-color:#6F8F6C;
-    font-size:larger;
+    font-size:x-large;
     padding : 10px;
     margin : 10px;
     border-radius : 3px;
