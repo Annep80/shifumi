@@ -12,7 +12,7 @@ body{
 button{
     border-color:#F42272;
     background-color: #F42272;
-    font-size:x-large;
+    font-size:large;
     padding : 10px;
     margin : 10px;
     border-radius : 3px;
@@ -23,7 +23,7 @@ button{
 .card{
     border-color :#6F8F6C;
     background-color:#6F8F6C;
-    font-size:x-large;
+    font-size:large;
     padding : 10px;
     margin : 10px;
     border-radius : 3px;
@@ -66,16 +66,7 @@ button{
     border-radius: 0.6em;
     clip-path: inset(0 0 50% 0);;
 }
-/* .rainbowContainer:after{
-content:"";
-position:absolute;
-height: 50.5%;
-width: 100%;
 
-bottom: 0;
-border-radius: 0 0 0.6em 0.6em;
-
-} */
 .rainbow-color{
     background-color: none;
     position: absolute;
